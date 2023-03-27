@@ -6,4 +6,6 @@ Practicando sobre la marcha en la clase de PIP y Entornos Virtuales. En Platzi.c
     
         python3 ./game/main.py
 
-     
+# Para ejecutar .app/
+
+        python3 ./app/main.py
