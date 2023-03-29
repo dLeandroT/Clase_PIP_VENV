@@ -246,6 +246,10 @@ $RECYCLE.BIN/
 
 
 ### Images ###
+
+# Carpeta de imagenes
+imgs/
+
 # JPEG
 *.jpg
 *.jpeg
